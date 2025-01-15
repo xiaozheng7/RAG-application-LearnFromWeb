@@ -1,0 +1,10 @@
+flask
+requests
+beautifulsoup4
+openai
+pinecone-client
+flask-cors
+python-dotenv
+chromadb
+langchain-huggingface
+langchain-community langchain-core
