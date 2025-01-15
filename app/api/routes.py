@@ -8,6 +8,7 @@ index_name = 'index119'
 persist_directory = f'docs/chroma/{index_name}/'
 
 @api_blueprint.route('/')
+# for testing if the service is up and running
 def hello_world():
     return 'Hello, World!'
 
