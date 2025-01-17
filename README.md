@@ -1,6 +1,8 @@
 # RAG-application-LearnFromWeb
 
-Using FLASK, Langchain, chromadb, openai.
+Tools: FLASK, Langchain, chromadb, openai.
+
+FLASK to build restAPI.
 
 RAG with the given URL as a database.
 
